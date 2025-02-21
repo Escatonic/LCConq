@@ -10,4 +10,4 @@ NOTE: i have also added a German localization (for those who play in German)
 
 -----------------------------------------------------------------------------------------------------------
 
-Stik', Thank you for your awesome mod!
+@ Okto, Thank you for your awesome mod!
